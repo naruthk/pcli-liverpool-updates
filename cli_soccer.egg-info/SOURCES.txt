@@ -1,0 +1,7 @@
+starter.py
+cli_soccer.egg-info/PKG-INFO
+cli_soccer.egg-info/SOURCES.txt
+cli_soccer.egg-info/dependency_links.txt
+cli_soccer.egg-info/entry_points.txt
+cli_soccer.egg-info/requires.txt
+cli_soccer.egg-info/top_level.txt
