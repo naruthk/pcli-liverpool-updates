@@ -10,10 +10,10 @@ This command-line-interface application is written in Python, a programming lang
 You can use the application to look up:
 - List of competition names besides the one that Liverpool F.C. is in (Premier League)
 - Fixtures over a specific number of days that you use as input
-- Live score report
+- Live score report [Coming soon!]
 - League standing
-- Players (Squad)
-- News and updates about the team
+- Players (Squad) [Coming soon!]
+- News and updates about the team [Coming soon!]
 
 ## Installation
 
