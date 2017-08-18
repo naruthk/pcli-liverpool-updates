@@ -17,7 +17,9 @@ You can use the application to look up:
 
 ## Installation
 
-Clone this repository. Make sure you already have Python installed in your working computer. Then run, `pip install .`
+Clone this repository. Make sure you already have Python installed in your working computer. 
+
+Then run, `pip install .`
 
 ## Usage
 
